@@ -1,0 +1,9 @@
+{
+	"name": "dfproject56",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88a28042-b4b3-458d-8196-67debca16f14",
+		"tenantId": "82c0b871-335f-4b5c-9ed0-a4a23565a79b"
+	}
+}
